@@ -18,3 +18,5 @@ java -cp "./bin/:/usr/local/Cellar/opencv/4.4.0/share/java/opencv4/*" -Djava.lib
 
 # Example Input and Output
 Landmark detection
+(https://github.com/chrismorrisette/javaopencv/blob/master/resources/images/einstein.jpg)
+(https://github.com/chrismorrisette/javaopencv/raw/master/resources/images/einstein-output.jpg)
